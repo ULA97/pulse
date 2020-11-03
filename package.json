@@ -13,7 +13,6 @@
     "gulp-autoprefixer": "^6.1.0",
     "gulp-clean-css": "^4.2.0",
     "gulp-cli": "^2.2.0",
-    "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0.2"
   },
   "browserslist": [
@@ -22,5 +21,16 @@
     "maintained node versions",
     "not dead"
   ],
+  "dependencies": {
+    "gulp-rename": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULA97/pulse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ULA97/pulse/issues"
+  },
+  "homepage": "https://github.com/ULA97/pulse#readme",
   "description": ""
 }
